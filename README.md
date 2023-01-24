@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fif-th
 - 👀 I’m interested in becoming a Software Engineer
 - 🌱 I’m currently learning the Python Language
-- 💞️ I’m interested in become an apprentice to flatten my learning curve
+- 💞️ I’m interested in becoming an apprentice to flatten my learning curve
 - 📫 You can reach me on Discord, Fifth#7171
 
 <!---
